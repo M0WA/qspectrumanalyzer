@@ -2,7 +2,7 @@
 
 import sys, signal, time
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 from qspectrumanalyzer.version import __version__
 from qspectrumanalyzer.backend import RtlPowerThread, RtlPowerFftwThread, HackRFSweepThread

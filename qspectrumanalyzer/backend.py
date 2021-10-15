@@ -1,7 +1,7 @@
 import subprocess, math, pprint
 
 import numpy as np
-from PyQt4 import QtCore
+from PyQt5 import QtCore
 import struct
 
 
